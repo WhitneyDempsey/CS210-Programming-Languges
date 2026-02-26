@@ -8,6 +8,7 @@ The application provides an interactive menu that allows users to:
 * Display all item frequencies
 * View a text based histogram representation
 * Exit the program.
+  
 At startup, the program automatically generates a backup file (frequency.dat) to preserve processed data.
 This project demonstrates practical application of STL containers, object-oriented design, and structured data processing in C++.
 
